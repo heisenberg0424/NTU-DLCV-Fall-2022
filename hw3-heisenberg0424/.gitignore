@@ -1,0 +1,5 @@
+hw3_data/*
+*.zip
+*.pth
+__pycache__
+.ipynb_checkpoints

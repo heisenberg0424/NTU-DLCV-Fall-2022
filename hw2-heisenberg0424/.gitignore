@@ -1,0 +1,9 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+.ipynb_checkpoints/*
+__pycache__/*
+hw2_data/*
+p1_result/*
+*png
+*jpg
+*.pth

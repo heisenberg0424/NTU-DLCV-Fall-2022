@@ -1,0 +1,8 @@
+hw4_data/*
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints
+*.csv
+*.mp4
+fine_last.tar
